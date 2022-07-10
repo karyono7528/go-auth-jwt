@@ -11,7 +11,7 @@ import (
 var (
 	Client   *sql.DB
 	username = "luxsoft"
-	password = "k0piiT2mku"
+	password = "********"
 	host     = "127.0.0.1:3306"
 	schema   = "db_golang"
 )
